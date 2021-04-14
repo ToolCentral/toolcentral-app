@@ -10,5 +10,10 @@ module.exports = {
       preProcessor: "scss",
       patterns: [],
     },
+    "vue-cli-plugin-auto-alias": {
+      rootDirName: "src",
+      case: "pascalCase",
+      alias: {},
+    },
   },
 };
