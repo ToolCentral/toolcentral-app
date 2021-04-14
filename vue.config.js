@@ -6,5 +6,9 @@ module.exports = {
       localeDir: "locales",
       enableInSFC: true,
     },
+    "style-resources-loader": {
+      preProcessor: "scss",
+      patterns: [],
+    },
   },
 };
