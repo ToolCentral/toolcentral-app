@@ -12,5 +12,5 @@ module.exports = {
   // webpackConfig: {
   //   // custom config goes here
   // },
-  exampleMode: "expand",
+  exampleMode: "expand"
 };
